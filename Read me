@@ -1,0 +1,2 @@
+run new.in file in lammps (go to command line, cd to new.in directory, lmp_serial.exe -in new.in) it will create a dump.new file 
+that can be read in ovito/vmd or such.
